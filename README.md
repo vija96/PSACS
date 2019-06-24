@@ -1,2 +1,2 @@
-# PSACS - (The code will be uploded soon)
+# PSACS - (All code will be uploaded here shortly)
 Repository for thesis work on predicting rifle shooting accuracy from context and sensor data by Viktor Jansson and Max Pettersson.
